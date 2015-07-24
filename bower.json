@@ -1,0 +1,17 @@
+{
+    "name": "angular-skeleton",
+    "version": "0.0.1",
+    "homepage": "https://github.com/hmschreiner/Angular-Skeleton",
+    "authors": [
+        "Henrique Schreiner <hms.sud@gmail.com>"
+    ],
+    "description": "A kit to start an AngularJS application.",
+    "keywords": [
+        "angularjs",
+        "skeleton"
+    ],
+    "dependencies": {
+        "angularjs": "~1.4.3",
+        "bootstrap": "~3.3.5"
+    }
+}
